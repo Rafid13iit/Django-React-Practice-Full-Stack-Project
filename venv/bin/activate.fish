@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV '/home/bs00793/Desktop/BS23 practise projects/Django Practise/Django_React_FullStack_Practise_Project/venv'
+set -gx VIRTUAL_ENV '/home/bs00793/Desktop/BS23 practise projects/Django_React_FullStack_Practise_Project/venv'
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH

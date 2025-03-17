@@ -9,7 +9,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV '/home/bs00793/Desktop/BS23 practise projects/Django Practise/Django_React_FullStack_Practise_Project/venv'
+setenv VIRTUAL_ENV '/home/bs00793/Desktop/BS23 practise projects/Django_React_FullStack_Practise_Project/venv'
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/"bin":$PATH"
